@@ -1,9 +1,9 @@
 #We do not need the spring profile anymore since we are your SPRING CLOUD CONFIGURATION
 build:
-  version: "1.0"
+  version: "3.0"
 
 accounts:
-  message: "Welcome to JideOpa accounts related prod APIs "
+  message: "config server for Jide properties prod APIs "
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
     email: "aishwarya@eazybank.com"
